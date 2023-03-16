@@ -1,5 +1,12 @@
 
 
+### [0.1.1](https://github.com/Code-Knights/try-release/compare/0.1.0...0.1.1) (2023-03-16)
+
+
+### 🐛 Bug Fixes
+
+* **yeah:** yes ([7abcbf6](https://github.com/Code-Knights/try-release/commit/7abcbf6ed12db528a75ed4ee2a4ff979bb30c079))
+
 ## 0.1.0 (2023-03-15)
 
 
